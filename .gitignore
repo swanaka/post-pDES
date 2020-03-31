@@ -116,4 +116,7 @@ dmypy.json
 ### venv folder ###
 /pDES
 
+## System files
+.DS_Store
+
 # End of https://www.gitignore.io/api/python,visualstudiocode
