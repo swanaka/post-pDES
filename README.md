@@ -1,5 +1,5 @@
 # Ganttchart drawer for pDES
-"pDES" is a project design tool by using Discrete-Event Simulation.
+"pDES" is a project design tool by using Discrete-Event Simulation.  
 This program provides the post processing to visualize the output file into Gantt chart.
 
 
