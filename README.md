@@ -4,7 +4,7 @@ This program provides the post processing to visualize the output file into Gant
 
 
 ## Demo
-![Interface](http://www.nakl.t.u-tokyo.ac.jp/~mitsuyuki/pDES/pictures/topInterface.png "topPage")
+![Interface](https://github.com/swanaka/post-pDES/blob/images/facility_gantt.png "Gantt chart")
 
 ## Requirement
 - Python (3.8.1 or later)
